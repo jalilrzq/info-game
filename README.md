@@ -1,3 +1,11 @@
+# About Projects
+
+This is project from Sanbercode Bootcamp Quiz
+
+## Tech Use
+
+React Js, Axios, Ant Design, React Router
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
